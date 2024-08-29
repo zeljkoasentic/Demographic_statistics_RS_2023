@@ -1,4 +1,3 @@
-# Demographic_statistics_RS_2023
- Demographic statistics by city/municipality of Republika Srpska
-
-Made by Zeljko Asentic
+# jls_rep_srp_uk_br_st_2022
+ Broj stanovnika po jedinicama lokalne samouprave u RS, 2022.
+https://github.com/zeljkoasentic/jls_rep_srp_uk_br_st_2022
